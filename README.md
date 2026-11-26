@@ -1,8 +1,8 @@
 # The World Today — 26 November 2026
 
-[![News Image 26 Nov](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/c/news-image-20261126)
-[![Rank](https://make.fun/news-image-20261126/trimokunn-collab/news-image-20261126/rank.svg)](https://make.fun/c/news-image-20261126)
-[![Reward](https://make.fun/news-image-20261126/trimokunn-collab/news-image-20261126/reward.svg)](https://make.fun/c/news-image-20261126)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/trimokunn-collab/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/trimokunn-collab/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 One image that sums up the world's news of **Thursday 26 November 2026**:
 thirty verified stories, from the Asian markets bounce and Kim Jong Un's
